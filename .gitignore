@@ -10,3 +10,4 @@ bin/ build/ target/
 .DS_Store Thumbs.db
 
 .tmp .swp *.bak
+/.metadata/
