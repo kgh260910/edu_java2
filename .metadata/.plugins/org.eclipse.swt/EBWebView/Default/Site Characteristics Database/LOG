@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/10/25-17:38:44.178 1258 Reusing MANIFEST C:\Users\karmo\Desktop\homepjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
 2026/10/25-17:38:44.179 1258 Recovering log #6
 2026/10/25-17:38:44.179 1258 Reusing old log C:\Users\karmo\Desktop\homepjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000006.log 
+=======
+2026/10/20-16:38:46.681 3a74 Reusing MANIFEST C:\kgh\java\pjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/20-16:38:46.682 3a74 Recovering log #3
+2026/10/20-16:38:46.682 3a74 Reusing old log C:\kgh\java\pjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+>>>>>>> 7998a2827a0fc951f6175f91d48cfb5d6e757fbf

@@ -1,0 +1,7 @@
+
+public class Pr01 {
+	
+	Scanner scanner = new Scanner(System.in);
+	
+
+}

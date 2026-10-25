@@ -1,0 +1,25 @@
+
+public class LoopEx {
+
+	public static void main(String[] args) {
+		
+		// 안녕하세요.를 5회 출력하자!
+		// for(초기화; 조건식; 단계)
+		// for(시작; 끝; 단계)
+		
+		for (int i = 1; i < 6; i++) {
+			System.out.println("안녕하세요" + i);
+		}
+		
+		int i = 1;					// 전역 변수 i
+		for (; i < 10; i += 2) {
+			System.out.println("hello");
+		}
+		
+		int j = 0;
+		for (j = 5; i < 10; i += 2) {
+			System.out.println("Hi");
+		}
+	}
+
+}
