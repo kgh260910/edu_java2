@@ -16,3 +16,14 @@
 2026-10-18 06:01:41.078: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-10-18 06:01:41.078: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-18 06:01:41.078: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-18 06:49:33.545: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-25 08:38:44.196: [INFO] CurrentProfilePath: C:\Users\karmo\Desktop\homepjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-25 08:38:44.196: [INFO] Profiles total count: 1
+2026-10-25 08:38:44.196: [INFO] Profile: name=프로필 1 path=C:\Users\karmo\Desktop\homepjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T06:24:07.022Z
+2026-10-25 08:38:44.196: [INFO] LastUsedProfileDir: C:\Users\karmo\Desktop\homepjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-25 08:38:44.196: [INFO] MostRecentlyActiveProfile: name=프로필 1 path=C:\Users\karmo\Desktop\homepjt\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T06:24:07.022Z
+2026-10-25 08:38:44.196: [INFO] OnDoneLoading sync enabled: 0
+2026-10-25 08:38:44.196: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-25 08:38:44.196: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-25 08:38:44.196: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-25 08:46:27.777: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
