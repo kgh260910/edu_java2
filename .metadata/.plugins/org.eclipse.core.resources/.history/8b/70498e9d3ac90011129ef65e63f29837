@@ -1,9 +1,0 @@
-import java.util.Scanner;
-
-public class Pr01 {
-	
-	Scanner scanner = new Scanner(System.in);
-	
-	String str = scanner.nextLine();
-
-}
