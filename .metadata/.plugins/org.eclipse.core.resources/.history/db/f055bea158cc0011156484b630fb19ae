@@ -1,0 +1,62 @@
+package firstpjt;
+
+import java.util.Scanner;
+
+public class Pr01 {
+
+	public static void main(String[] args) {
+//		
+//		int a = 4;
+//		float b = 3;
+//		int c = ++a + -b;
+//		System.out.println(c);
+//		
+//		int a = 5, b = 4;
+//		float c;
+//		System.out.println(c = a % b);  // 1.0
+//		
+//		int x = 5;
+//		System.out.println(++x + x);  // ++x : 6이 되어 6+6 = 12
+//		
+//		String aaa = "JavaBook";
+//		String ccc = "Java";
+//		String ddd = "Book";
+//		String bbb = ccc + ddd;
+//		
+//		System.out.println(aaa);
+//		System.out.println(ccc + ddd);
+//		if (aaa == bbb) {
+//			System.out.println("aaa와 bbb는 같다.");
+//		}
+//		else {
+//			System.out.println("aaa와 bbb는 같지 않다.");
+//		}
+//		int a, b, c, d, e, f, g, h;
+//		h = (a + b) * c - d % e + f / g;
+//		
+//		System.out.println(h);
+		
+//		int a = 3, b = 4, c = 5;
+//		int d = (a + b) * c;
+//		
+//		System.out.println(d);
+//		
+		Scanner scanner = new Scanner(System.in);
+//		
+//		String str1 = scanner.nextLine();
+//		System.out.println(str1);
+		
+		int num1 = 20;
+		int num2 = 30;
+		int add = num1 + num2;
+//		
+		scanner.close();
+//		int x = 1;
+//		int y = 2;
+//		int z = ++x + -y;
+//		System.out.println("출력 결과: " + z);
+		
+		
+	}
+
+}
